@@ -1,0 +1,12 @@
+{
+  "name": "fennecxx-hyper-engine",
+  "version": "1.0.0",
+  "description": "a discrete, hyper-fast, online games website with a built-in proxy.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kohen Heard & Emmett Nelson",
+  "license": ""
+}
