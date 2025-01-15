@@ -7,6 +7,9 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Kohen Heard & Emmett Nelson",
-  "license": ""
+  "author": "Fennecxx' Crew",
+  "license": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
